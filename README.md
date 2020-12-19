@@ -71,14 +71,14 @@ and you want absolute 0 wasted lines of code in your site.
 
 ### Some defaut CSS
 
-  #### .btn for button class
-  #### .f-left for float left
-  #### .f-right for float right
-  #### .fix for overfw hidden
-  #### .clear for clear both
-  #### .uppercase for uppercase
-  #### .lowercase for lowercase
-  #### .capitalize for capitalize
+    <ul> .btn for button class </ul>
+    <ul> .f-left for float left</ul>
+    <ul> .f-right for float right</ul>
+    <ul> .fix for overfw hidden</ul>
+    <ul> .clear for clear both</ul>
+    <ul> .uppercase for uppercase</ul>
+    <ul> .lowercase for lowercase</ul>
+    <ul> .capitalize for capitalize</ul>
 
 
   ### 404 page also include 
